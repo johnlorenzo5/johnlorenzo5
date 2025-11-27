@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://ph.pinterest.com/2818dc1d-b72e-4427-9fd5-60b8fa35d83f"  />
+  <img height="200" src="https://i.pinimg.com/originals/e2/11/47/e21147b6878fc7cd1817d0bf15da1262.gif"  />
 </div>
 
 ###
